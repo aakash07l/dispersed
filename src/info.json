@@ -1,5 +1,5 @@
 {
-    "ALLOWED_CHAINS": [137,80001,1285,1287],
+    "ALLOWED_CHAINS": [1,137,80001,1285,1287],
     "networkInfo" : {
         "1": {
             "name": "ethereum",
