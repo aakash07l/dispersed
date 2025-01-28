@@ -1,4 +1,4 @@
- { Container, Grid } from "@mui/material";
+import { Container, Grid } from "@mui/material";
 import { useWeb3React } from "@web3-react/core";
 import React from "react";
 import NFTSearch from "./components/NFTSearch";
