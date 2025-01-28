@@ -1,5 +1,5 @@
 {
-    "ALLOWED_CHAINS": [1,137,80001,1285,1287],
+    "ALLOWED_CHAINS": [1,137,56,10],
     "networkInfo" : {
         "1": {
             "name": "ethereum",
@@ -17,29 +17,22 @@
             "logo": "./polygon.png",
             "testnet": false
         },
-        "1285": {
-            "name": "moonriver",
-            "blockExplorer": "https://moonriver.moonscan.io/",
-            "chainIdInHex": 505,
-            "symbol": "MOVR",
-            "logo": "./moonriver.png",
+        },
+        "56": {
+            "name": "BSC",
+            "blockExplorer": "https://bnbscan.io/",
+            "chainIdInHex": 38,
+            "symbol": "BNB",
+            "logo": "./bnb.png",
             "testnet": false
         },
-        "1287": {
-            "name": "moonbase alpha",
-            "blockExplorer": "https://moonbase.moonscan.io/",
-            "chainIdInHex": 507,
-            "symbol": "DEV",
-            "logo": "./moonbase.png",
+        "10": {
+            "name": "optimism",
+            "blockExplorer": "https://opscan.com/",
+            "chainIdInHex":,
+            "symbol": "ETH",
+            "logo": "./Op.png",
             "testnet": false
-        },
-        "80001": {
-            "name": "polygon mumbai",
-            "blockExplorer": "https://mumbai.polygonscan.com/",
-            "chainIdInHex": 13881,
-            "symbol": "MATIC",
-            "logo": "./polygon.png",
-            "testnet": true
         }
     }
 }
