@@ -20,7 +20,7 @@
         },
         "56": {
             "name": "BSC",
-            "blockExplorer": "https://bnbscan.io/",
+            "blockExplorer": "https://bscscan.com/",
             "chainIdInHex": 38,
             "symbol": "BNB",
             "logo": "./bnb.png",
@@ -28,8 +28,8 @@
         },
         "10": {
             "name": "optimism",
-            "blockExplorer": "https://opscan.com/",
-            "chainIdInHex":,
+            "blockExplorer": "https://optimistic.etherscan.io/",
+            "chainIdInHex": ,
             "symbol": "ETH",
             "logo": "./Op.png",
             "testnet": false
