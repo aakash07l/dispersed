@@ -17,7 +17,7 @@ function getLibrary(provider) {
 const root = ReactDOM.createRoot(
   document.getElementById('root')
 );
-root.render
+root.render(
   <React.StrictMode>
     <Web3ReactProvider getLibrary={getLibrary}>
       <MUIContextProvider>
