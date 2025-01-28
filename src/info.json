@@ -29,7 +29,7 @@
         "10": {
             "name": "optimism",
             "blockExplorer": "https://optimistic.etherscan.io/",
-            "chainIdInHex": ,
+            "chainIdInHex": 0,
             "symbol": "ETH",
             "logo": "./Op.png",
             "testnet": false
