@@ -31,7 +31,7 @@
             "blockExplorer": "https://optimistic.etherscan.io/",
             "chainIdInHex": 0,
             "symbol": "ETH",
-            "logo": "./Op.png",
+            "logo": "./op.png",
             "testnet": false
         }
     }
